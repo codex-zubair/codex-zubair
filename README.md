@@ -7,7 +7,7 @@
 
 <br>
 
-<h1 align="center">Hi, I'm NM Zubair</h1>
+<h1 align="center">Hi, I'm Zubair</h1>
 
 <p align="center">
   Flull Stack Developer
