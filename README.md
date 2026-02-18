@@ -13,13 +13,7 @@
   Flull Stack Developer
 </p>
 
-<br>
 
-### My Top Languages (Overall Usage)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codex-zubair&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&hide=html,css,tex,less&theme=dracula&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true)
-
-<br>
 
 <div align="center">
   Made with ❤️ in Dhaka
@@ -27,17 +21,6 @@
 - 💬 Ask me about **JavaScript**, **REST APIs**, **databases**, or **web performance**
 - 📫 Reach me via LinkedIn or WhatsApp (links above)
 
-<br/>
-
-### 🛠️ Languages & Tools I Use Most
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codex-zubair&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5&count_private=true&hide=html,css,tex,less&theme=dracula&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true)
-
-<br/>
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codex-zubair&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&line_height=28)
 
 <br/>
 
