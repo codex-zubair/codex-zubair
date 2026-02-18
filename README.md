@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm NM Zubair</h1>
 
 <p align="center">
-  Backend Developer • Dhaka, Bangladesh
+  Flull Stack Developer
 </p>
 
 <br>
