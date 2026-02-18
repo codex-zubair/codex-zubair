@@ -15,14 +15,6 @@
 
 
 
-<div align="center">
-  Made with ❤️ in Dhaka
-</div>- 👨‍💻 Most of my repos are private, but check out my pinned public ones below
-- 💬 Ask me about **JavaScript**, **REST APIs**, **databases**, or **web performance**
-- 📫 Reach me via LinkedIn or WhatsApp (links above)
-
-
-<br/>
 
 <div align="center">
 
