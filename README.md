@@ -11,7 +11,7 @@
 
 <p align="center">
   Flull Stack Developer
-  Love to Work and learn New Technologies.
+ 
 </p>
 
 
