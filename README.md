@@ -5,21 +5,25 @@
 
 </div>
 
-<br/>
+<br>
 
-<h2 align="center">Hi there 👋 I'm MD Zubair Alam</h2>
+<h1 align="center">Hi, I'm NM Zubair</h1>
 
 <p align="center">
-  <strong>Backend Software Developer</strong> • Dhaka, Bangladesh<br>
-  Building scalable web applications with modern tech stacks
+  Backend Developer • Dhaka, Bangladesh
 </p>
 
-<br/>
+<br>
 
-### 🚀 About Me
-- 🔭 Currently working on full-stack projects with **Node.js / Express / MongoDB** and **React**
-- 🌱 Learning advanced **TypeScript**, **system design**, and **cloud deployment**
-- 👨‍💻 Most of my repos are private, but check out my pinned public ones below
+### My Top Languages (Overall Usage)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codex-zubair&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&count_private=true&hide=html,css,tex,less&theme=dracula&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=true)
+
+<br>
+
+<div align="center">
+  Made with ❤️ in Dhaka
+</div>- 👨‍💻 Most of my repos are private, but check out my pinned public ones below
 - 💬 Ask me about **JavaScript**, **REST APIs**, **databases**, or **web performance**
 - 📫 Reach me via LinkedIn or WhatsApp (links above)
 
