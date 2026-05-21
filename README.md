@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm Zubair</h1>
 
 <p align="center">
-  Full Stack Engineer
+  AI FS Engineer
  
 </p>
 
