@@ -10,7 +10,7 @@
 <h1 align="center">Hi, I'm Zubair</h1>
 
 <p align="center">
-  Flull Stack Developer
+  Flull Stack Engineer
  
 </p>
 
@@ -19,6 +19,6 @@
 
 <div align="center">
 
-Made with ❤️ in Dhaka
+
 
 </div>
