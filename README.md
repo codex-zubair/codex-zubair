@@ -27,7 +27,6 @@
 <!-- ═══════════════════════ PROFILE SNAPSHOT ═══════════════════════ -->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=codex-zubair&label=Profile%20views&color=36bcf7&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/codex-zubair?label=Followers&style=flat-square&color=36bcf7&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Relocation-2ea44f?style=flat-square" alt="Open to work" />
 </p>
